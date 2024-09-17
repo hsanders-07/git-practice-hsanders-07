@@ -1,0 +1,55 @@
+  669  git --version
+  670  git config --global user.name "Hunter Sanders"
+  671  git config --glabal user.name "Hunter"
+  672  git config --global user.name "Hunter"
+  673  git config --global user.email hsander7@byu.edu
+  674  git config --global init.defaultBranch main
+  675  git --version
+  676  git status
+  677  git config --list
+  687  cd git-practice-hsanders-07
+  688  git init
+  694  cd git-practice-hsanders-07
+  697  git status
+  699  git status
+  700  git add file1.txt
+  701  git status
+  702  git add .
+  703  git status
+  704  git commit -m 'Add file2.txt'
+  705  git log
+  706  git log --online
+  707  git log --oneline
+  709  touch .gitignore
+  710  git add .
+  711  git commit -m "Added gitignore file"
+  712  git remote add origin git@github.com:hsanders-07/git-practice-hsanders-07.git
+  713  git push -u origin main
+  719  git push -u origin main
+  721  git add file_1.txt
+  722  git commit -m "Added text to file_1"
+  723  git status
+  724  git add file_2.txt
+  725  git commit -m "Added text to file_2"
+  726  git log
+  729  git add Readme.md
+  730  git commit -m "Added Readme.md file"
+  731  git add .gitignore
+  732  git commit -m "Added to .gitignore file"
+  734  git status
+  735  git status
+  736  git log
+  742  cd git-practice-hsanders-07
+  743  git remote add origin SHA256:ZEpp5S+dt8YlDHlw6/kefuPaCRrXO2Ve8Z8UE/roEhY
+  744  git push -u origin main
+  747  git clone git@github.com:hsanders-07/git-practice-eladle21.git
+  749  git-practice-eladle21
+  750  git-practice-eladle21
+  751  cd git-practice-eladle21
+  752  git push origin feature-hsanders-07
+  753  git push origin feature---hsanders-07\n
+  757  cd git-practice-hsanders-07
+  758  git pull
+  759  git pull main
+  760  git pull origin main
+  761  git log --oneline > gitlog.txt
