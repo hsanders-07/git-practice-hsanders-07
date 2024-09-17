@@ -1,3 +1,10 @@
+bfbf9dc clean house
+c37c9e0 Last time
+ff54c3a Merge branch 'features' for final time
+1ece38f hopefully last merge
+1801cce prep for second merge
+634b718 prep for merge 1
+143e0c4 add two final files
 62ec447 Merge pull request #1 from eladle21/feature-eladle21
 25668a9 added some more truth
 4c6f0e5 random edits

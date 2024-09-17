@@ -53,3 +53,39 @@
   759  git pull main
   760  git pull origin main
   761  git log --oneline > gitlog.txt
+  762  history 0 | grep git > history.txt
+  763  git push -u origin main
+  764  git push
+  765  git branch
+  766  git branch -m feature-hsanders-07
+  767  git branch
+  768  git switch main
+  769  git branch
+  770  git branch -m features
+  771  git branch
+  772  git switch main
+  773  git switch features
+  774  git switch main
+  775  git merge features
+  776  git branch
+  777  git switch main
+  778  git merge features
+  779  git switch main
+  780  git branch
+  781  git merge features
+  782  git branch
+  783  git switch main
+  784  git push -u origin main
+  785  git push --help
+  786  git branch
+  787  git log --oneline > gitlog.txt
+  788  history 0 | grep git > history.txt
+  789  git add .
+  790  git commit -m "Last time"
+  791  git push -u origin main
+  792  git branch
+  793  git rm history.txt
+  794  git rm gitlog.txt
+  795  git add .
+  796  git commit -m "clean house"
+  797  git log --oneline > gitlog.txt
