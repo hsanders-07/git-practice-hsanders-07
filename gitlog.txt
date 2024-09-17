@@ -1,0 +1,14 @@
+62ec447 Merge pull request #1 from eladle21/feature-eladle21
+25668a9 added some more truth
+4c6f0e5 random edits
+616dbe1 edited new_features on feat branch
+56d0f87 Update text in new_features
+b954780 Merge branch 'features'
+a8614ac Add new text to file_1
+e1dc4fa Added text to new_features file
+dfd427c add empty file
+749f2eb Added Readme.md file
+546e8cc Added text to file_2
+532a889 Added text to file_1
+2883b02 Added gitignore file
+9967345 Add file2.txt
